@@ -1,1 +1,1 @@
-sfdx force:source:push
+sfdx reauth
