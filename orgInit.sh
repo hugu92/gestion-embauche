@@ -1,1 +1,1 @@
-sfdx reauth
+sfdx force:auth:jwt:grant
