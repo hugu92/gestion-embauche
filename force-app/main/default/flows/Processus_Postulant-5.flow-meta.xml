@@ -326,7 +326,7 @@ Mobile: {!myVariable_current.Mobile_Phone__c}</stringValue>
             <label>Previously Met - Prev</label>
         </rules>
     </decisions>
-    <interviewLabel>Processus_Postulant-1_InterviewLabel</interviewLabel>
+    <interviewLabel>Processus_Postulant-5_InterviewLabel</interviewLabel>
     <label>Processus Postulant</label>
     <processMetadataValues>
         <name>ObjectType</name>
