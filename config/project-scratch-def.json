@@ -1,9 +1,10 @@
 {
-    "orgName": "AG2RLM",
+    "orgName": "Orange",
     "edition": "Developer",
     "language":"fr",
     "country":"FR",
+    "features":"Communities",
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
+        "enabled": ["S1DesktopEnabled","NetworksEnabled"]
     }
 }
