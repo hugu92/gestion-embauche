@@ -3,8 +3,8 @@
     "edition": "Developer",
     "language":"fr",
     "country":"FR",
-    "features":"Communities",
+    "features":["Communities","LightningServiceConsole","ServiceWave"],
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled","NetworksEnabled"]
+        "enabled": ["S1DesktopEnabled","NetworksEnabled","IsEntitlementsEnabled","IsKnowledgeEnabled"]
     }
 }
