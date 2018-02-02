@@ -49,6 +49,11 @@
           "title":"Etape 10: Communauté",
           "body":"Nous allons créer un espace ouvert, un portail, afin que des personnes externes puissent également postuler. <br> <br>Métadonnée visible <a href=\"https://github.com/mjacquet/gestion-embauche/tree/step9\" target=\"_blank\">ici</a>",
           "button":"Créer et configurer la Communauté"
+       },
+       {
+          "title":"Etape 11: Console de Service",
+          "body":"Nous allons personnaliser une console, pensée pour l'efficacité du traitements des demandes de support. Nous verrons aussi la base de connaissance.",
+          "button":"Personnaliser la console et la base de connaissance"
        }
     ]
  }
