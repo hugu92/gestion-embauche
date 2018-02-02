@@ -1,0 +1,14 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Knowledge__kav",
+                "referenceId": "Knowledge__kavRef1"
+            },
+            "Title": "Comment être efficace pour traiter une demande?",
+            "Description__c": "<u><b>En utilisant la console de Service!</b></u>",
+            "UrlName": "Comment-être-efficace-pour-traiter-une-demande",
+            "PublishStatus": "Online"
+        }
+    ]
+}
