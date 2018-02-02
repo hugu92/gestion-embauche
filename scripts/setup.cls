@@ -1,5 +1,9 @@
 Profile p=[select id from profile where Name='Company Communities User'];
 
+User u=[SELECT id,UserPermissionsKnowledgeUser from user where alia='UUser'];
+u.UserPermissionsKnowledgeUser=true;
+update u;
+
 User jres = new user();
 jres.firstName = 'Julie';
 jres.LastName = 'Responsable';
