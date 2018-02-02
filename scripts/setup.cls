@@ -1,6 +1,6 @@
 Profile p=[select id from profile where Name='Company Communities User'];
 
-User u=[SELECT id,UserPermissionsKnowledgeUser from user where alia='UUser'];
+User u=[SELECT id,UserPermissionsKnowledgeUser from user where alias='UUser'];
 u.UserPermissionsKnowledgeUser=true;
 update u;
 
